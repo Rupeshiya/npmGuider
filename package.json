@@ -1,0 +1,23 @@
+{
+  "name": "npm_guider",
+  "version": "1.0.0",
+  "description": "This is a simple npm guider which will give you the idea of which is the most popular npm packages till now.",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rupeshiya/npmGuider.git"
+  },
+  "keywords": [
+    "npm",
+    "guider"
+  ],
+  "author": "rupesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rupeshiya/npmGuider/issues"
+  },
+  "homepage": "https://github.com/Rupeshiya/npmGuider#readme"
+}
