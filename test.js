@@ -22,6 +22,10 @@ console.log(`
 19.fs
 20.body-parser
 21.Cheerio
+22.Bower
+23.Browserify
+24.Socket.IO
+25.Passport
   `);
   console.log('Know about the given above stuff to become a good developer of node.js');
   console.log('Feel free to suggest the change in list');
