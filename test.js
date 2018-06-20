@@ -1,5 +1,5 @@
 console.log('Hello world ,here we go !!');
-console.log('This is the list ofimportant npm packages that you should know');
+console.log('This is the list of important npm packages that you should know');
 console.log(`
 1.Lodash
 2.jdalton
